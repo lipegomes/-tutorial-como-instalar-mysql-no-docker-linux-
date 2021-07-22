@@ -37,7 +37,7 @@ mysql:8.0.26
 docker ps -a
 ```
 
-![Screenshot_20210722_121600.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210721_183849.png)
+![Screenshot_20210722_121600.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_121600.png)
 
 
 **1.3 - Executar o container com o MySQL:**
@@ -87,7 +87,7 @@ https://dbeaver.io/download/
 - Ir em: Database > New Database Connection
 - Conforme imagem abaixo, clique no icone do MySQL e depois clique em next( botão na parte inferior).
 
-  ![Screenshot_20210722_121600.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_121600.png)
+  ![Screenshot_20210722_121804.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_121804.png)
 
 - Confome imagem abaixo, use os seguintes valores:
 
@@ -199,7 +199,7 @@ except Error as e:
 
   Conforme imagem abaixo digite o usuário(root) e a senha(@#dev2021):
 
-  ![Screenshot_20210722_124338.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/SScreenshot_20210722_124338.png)
+  ![Screenshot_20210722_124338.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_124338.png)
 
 - Abra o DBeaver, clique com botão direito do mouse sobre Databases no canto esquerda da tela. Vai abrir um menu, clique
 em refresh. Conforme imagem abaixo é possível ver que o banco de dados foi criado:
@@ -278,7 +278,7 @@ em refresh. Conforme imagem abaixo é possível ver que as tabelas foram criadas
 
 **4 - Diagrama do banco de dados criado:**
 
-![diagram.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/database/diagram.png)
+![diagram.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/database/diagram/diagram.png)
 
 **5 - Considerações finais:**
 
