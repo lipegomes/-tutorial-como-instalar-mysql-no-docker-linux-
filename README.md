@@ -87,7 +87,7 @@ https://dbeaver.io/download/
 - Ir em: Database > New Database Connection
 - Conforme imagem abaixo, clique no icone do MySQL e depois clique em next( botão na parte inferior).
 
-  ![Screenshot_20210722_121804.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_121804.png)
+  ![Screenshot_20210722_135708.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_135708.png)
 
 - Confome imagem abaixo, use os seguintes valores:
 
@@ -96,7 +96,7 @@ https://dbeaver.io/download/
   - Username: root
   - Password(definido durante a instalação do container): @#dev2021
 
-  ![Screenshot_20210722_121884.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_121884.png)
+  ![Screenshot_20210722_121804.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_121804.png)
 
   - Clique em Test Connection para verificar se a configuração está correta e realizar uma conexão com sucesso.
 
