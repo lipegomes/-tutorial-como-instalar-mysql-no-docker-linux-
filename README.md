@@ -8,7 +8,7 @@ Para instalação do docker em sua distribuição linux consulte a documentaçã
 
 https://docs.docker.com/engine/install/
 
-**1.1 - Criar container docker do MySQL com a versão com a versão mais recente 8.0.26:**
+**1.1 - Criar container docker do MySQL com a versão 8.0.26:**
 
 No link abaixo é possível obter informações sobre a imagem oficial do MySQL no Docker Hub:
 
@@ -112,7 +112,7 @@ https://dbeaver.io/download/
 
 Requisitos:
 
-- Necessário ter o python na versão 3.xx instalado em seu sistema operacional, para instalação acesseo link abaixo:
+- Necessário ter o python na versão 3.xx instalado em seu sistema operacional, para instalação acesse o link abaixo:
 
   https://www.python.org/
 
