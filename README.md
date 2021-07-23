@@ -276,14 +276,27 @@ em refresh. Conforme imagem abaixo é possível ver que as tabelas foram criadas
 
 ![Screenshot_20210722_125505.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210722_125605.png)
 
-**4 - Diagrama do banco de dados criado:**
+**3.4 - Diagrama do banco de dados criado:**
 
 ![diagram.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/database/diagram/diagram.png)
 
-**5 - Considerações finais:**
+**3.5 - Considerações finais:**
 
 O objetivo desse tutorial não é fazer um CRUD(Create, Read, Update, Delete), mas sim aprender a utilizar MySQL com Docker.
 Se sinta a vontade para fazer um CRUD e criar seu próprio banco de dados.
+
+## **4 - Error Public Key Retrieval is not allowed**
+
+Existe a possibilidade de ao reiniciar o banco de dados no docker acontecer o error Public Key Retrieval is not allowed.
+Caso isso aconteça, siga os passos abaixo para habilitar o allowPublicKeyRetrieval como TRUE.
+
+![Screenshot_20210723_172649.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210723_172649.png)
+
+- Clique com o botão direito do mouse sobre o localhost do MySQL, depois vá em Edit Connection > Driver properties, em allowPublicKeyRetrieval coloque a váriavel como TRUE.
+
+![Screenshot_20210723_172717.png](https://github.com/lipegomes/tutorial-como-instalar-mysql-no-docker-linux/blob/main/assets/img/Screenshot_20210723_172717.png)
+
+Pronto o MySQL está pronto novamente para uso.
 
 ###  Operational System:
 
