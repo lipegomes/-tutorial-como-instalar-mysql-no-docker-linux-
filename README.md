@@ -191,7 +191,7 @@ except Error as e:
 
   ```
 
-- Agora digite os comando abaixo para acessar o MySQL e criar um banco de dados:
+- Agora digite o comando abaixo para acessar o MySQL e criar um banco de dados:
 
   ``` python
   python src/createdb.py
@@ -262,7 +262,7 @@ except Error as e:
 
 ```
 
-- Agora digite os comando abaixo para criar as tabelas no banco de dados:
+- Agora digite o comando abaixo para criar as tabelas no banco de dados:
 
   ``` python
   python src/create_tables.py
