@@ -8,6 +8,18 @@ Para instalação do docker em sua distribuição linux consulte a documentaçã
 
 https://docs.docker.com/engine/install/
 
+Use o comando abaixo para iniciar o docker após instalação:
+
+```
+sudo systemctl start docker
+```
+
+Use o comando abaixo para fazer um stop(parar) o funcionamento do docker se necessário:
+
+```
+sudo systemctl stop docker
+```
+
 **1.1 - Criar container docker do MySQL com a versão 8.0.26:**
 
 No link abaixo é possível obter informações sobre a imagem oficial do MySQL no Docker Hub:
